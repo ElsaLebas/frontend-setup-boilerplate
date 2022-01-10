@@ -5,8 +5,8 @@ Make sure you have Node installed and you are using >=14.17.0
 
 ```bash
 node -v
-nvm install ^14.17
-nvm use ^14.17
+nvm install 14.17
+nvm use 14.17
 ```
 
 Then run 
