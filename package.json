@@ -1,0 +1,20 @@
+{
+  "name": "javascript-boilerplate",
+  "version": "1.0.0",
+  "description": "Frontend JavaScript environment setup",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "babel-loader": "^8.2.3",
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "webpack": "^4.25.1",
+    "webpack-cli": "3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  }
+}

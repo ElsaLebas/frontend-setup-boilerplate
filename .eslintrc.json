@@ -1,0 +1,24 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true,
+        "node": true
+    },
+    "extends": [
+        "airbnb-base"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 13
+    },
+    "rules": {
+        "no-console": "off",
+        "no-alert": "off",
+        "comma-dangle": "off",
+        "quotes": "off",
+        "no-unused-vars": "off",
+        "no-param-reassign": "off",
+        "class-methods-use-this": "off",
+        "import/prefer-default-export": "off",
+        "prefer-destructuring": "off"
+      }
+}
