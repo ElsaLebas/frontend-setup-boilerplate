@@ -1,4 +1,4 @@
-First clone this repository to your laptop. 
+First clone this repository. 
 You must have [yarn](https://yarnpkg.com/lang/en/docs/install/) installed.
 
 Make sure you have Node installed and you are using >=14.17.0
